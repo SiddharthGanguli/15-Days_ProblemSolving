@@ -1,1 +1,12 @@
+date:- 22/11/24
 
+Day 1 challenge: -
+Problem
+1. The Secret Recipe
+A famous chef is preparing a dish and has a list of ingredients, each with a specific quantity(e.g.,"Sugar: 200g","Flour: 500g"). The chef wants to ensure that each ingredient
+quantity is within a range (e.g., between 100g and 1000g).
+
+Write a program that:
+● Takes a list of ingredients with their quantities as input.
+● Checks if any ingredient has a quantity outside the allowed range.
+● Returns a message indicating which ingredients need adjustment.
